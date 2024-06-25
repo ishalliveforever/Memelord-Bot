@@ -41,6 +41,7 @@ MemeLord is a Discord bot that allows users to submit memes and get rewarded wit
    DISCORD_TOKEN=your-discord-bot-token
    WALLET_PRIVATE_KEY=your-wallet-private-key
    WINNING_CHANNEL_ID=your-channel-id
+   PRIVATE_CHANNEL_ID=your-channel-id
    ```
 
 ## Usage
